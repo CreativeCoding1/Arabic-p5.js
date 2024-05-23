@@ -1,6 +1,5 @@
-** Arabic-Tyography-p5.js**
-Solving The issue of Arabic letters connections
-Issue:
+#Arabic-Tyography-p5.js
+**Solving The issue of Arabic letters connections in p5.js:**
 https://stackoverflow.com/questions/72644831/arabic-font-not-showing-correctly-in-p5-js
 
 
